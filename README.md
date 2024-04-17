@@ -1,4 +1,4 @@
-# pawa-data-science-assessment
+# Student Assessment
 
 ##Exploratory Data Analysis
 
